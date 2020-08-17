@@ -1,0 +1,9 @@
+.btn {
+    display: inline-block;
+    margin: 5px;
+    width: 70px;
+    font-size: larger;
+    font-weight: bold;
+    border-radius: 5px;
+    background-color: aquamarine;
+}

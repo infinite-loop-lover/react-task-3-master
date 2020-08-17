@@ -1,0 +1,20 @@
+.input {
+    color: aquamarine;
+    font-weight: bold;
+    font-size: small;
+    height: 25px;
+    margin: 10px auto;
+}
+
+.input input {
+    width: 50px;
+    margin-left: 15px;
+    padding-left: 15px;
+    border-radius: 5px;
+    text-align: center;
+}
+
+.incorrectValue {
+    border: 2px solid red;
+    background-color: lightcoral;
+}

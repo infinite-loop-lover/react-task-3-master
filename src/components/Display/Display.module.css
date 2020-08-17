@@ -1,0 +1,38 @@
+.counter, .prompt, .error {
+    display: block;
+    width: 260px;
+    height: 70px;
+    border: 1px solid aquamarine;
+    border-radius: 5px;
+    padding-top: 20px;
+    margin: 10px auto;
+    font-size: x-large;
+    font-weight: bold;
+    color: aquamarine;
+}
+
+.counterStop {
+    display: block;
+    width: 260px;
+    height: 70px;
+    border: 1px solid aquamarine;
+    border-radius: 5px;
+    padding-top: 20px;
+    margin: 10px auto;
+    color: red;
+    font-size: xx-large;
+    font-weight: bold;
+}
+
+.prompt {
+    font-size: small;
+    padding-top: 35px;
+    height: 55px;
+}
+
+.error {
+    font-size: small;
+    padding-top: 35px;
+    height: 55px;
+    color: red;
+}

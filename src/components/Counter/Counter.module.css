@@ -1,0 +1,17 @@
+.counterWrapper {
+    padding: 5px;
+    border: 1px solid aquamarine;
+    border-radius: 5px;
+    background-color: #24292e;
+    width: 270px;
+    margin: 50px;
+    display: inline-block;
+}
+
+.btnBlock {
+    width: 250px;
+    border: 1px solid aquamarine;
+    border-radius: 5px;
+    padding: 5px;
+    margin: 10px auto
+}
